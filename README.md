@@ -1,5 +1,3 @@
-# Thomas Barrett
-
 I work in analytics with a focus on marketing, customer behavior, and the data pipelines that support that work. I'm currently completing an MSE in Data Science at the University of Pennsylvania.
 
 Most of the code I write professionally can't be shared publicly. The repos here are a mix of academic work and projects built with synthetic or public data to show approaches I've used for SQL, analytics engineering, modeling, and analysis.
