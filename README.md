@@ -14,7 +14,7 @@ A small DuckDB project organized around staging, intermediate, and reporting lay
 An experiment with putting a natural-language interface in front of a small analytical dataset while keeping the underlying queries controlled and auditable.
 
 **[Audience Intelligence Capstone](https://github.com/thobar-penn/audience-intelligence-capstone)**  
-Anonymized work from my graduate program.
+Graduate data science capstone covering audience intelligence, feature engineering, and predictive modeling using masked enterprise data.
 
 ## Tools
 
