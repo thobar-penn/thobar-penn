@@ -6,7 +6,7 @@ Most of the code I write professionally can't be shared publicly. The repos here
 
 ## Selected Projects
 
-**[Insurance Marketing Analytics](https://github.com/thobar-penn/insurance-marketing-analytics)**
+**[Insurance Marketing Analytics](https://github.com/thobar-penn/insurance-marketing-analytics)**  
 Synthetic P&C acquisition data used to look at channel performance, quote funnel behavior, acquisition cost, and differences across markets.
 
 **[Marketing Analytics Pipeline](https://github.com/thobar-penn/marketing-analytics-pipeline)**  
