@@ -12,10 +12,10 @@ Synthetic P&C acquisition data used to look at channel performance, quote funnel
 **[Marketing Analytics Pipeline](https://github.com/thobar-penn/marketing-analytics-pipeline)**  
 A small DuckDB project organized around staging, intermediate, and reporting layers. Includes data-quality checks and documented metric definitions.
 
-**[Conversational Analytics](https://github.com/thobar-penn/conversational-analytics)**
+**[Conversational Analytics](https://github.com/thobar-penn/conversational-analytics)**  
 An experiment with putting a natural-language interface in front of a small analytical dataset while keeping the underlying queries controlled and auditable.
 
-**Data Science Capstone**  
+**[Audience Intelligence Capstone](https://github.com/thobar-penn/audience-intelligence-capstone)**  
 Anonymized work from my graduate program.
 
 ## Tools
